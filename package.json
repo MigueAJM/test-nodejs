@@ -1,0 +1,27 @@
+{
+  "name": "test-nodejs",
+  "version": "1.0.0",
+  "description": "Ejercicios de node js",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MigueAJM/test-nodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "js",
+    "express",
+    "js",
+    "json"
+  ],
+  "author": "miguejm@outlook.es",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MigueAJM/test-nodejs/issues"
+  },
+  "homepage": "https://github.com/MigueAJM/test-nodejs#readme"
+}
